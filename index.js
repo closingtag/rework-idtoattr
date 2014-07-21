@@ -32,6 +32,10 @@ module.exports = (function() {
 			* an array in which the selectors that include
 			* Ids are altered to use attribute-selectors
 			*/
+			
+			if ( !rule.selectors ) {
+				return;
+			}
 
 			rule.selectors = rule.selectors.map(function(selector){
 				
