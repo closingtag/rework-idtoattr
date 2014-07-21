@@ -3,8 +3,6 @@ rework ID to Attribute
 
 A [Rework](https://github.com/reworkcss/rework) plugin to convert CSS ID-Selectors to Attribute-Selectors.
 
-## Install
-
 ## Installation
 
 Install with npm:
