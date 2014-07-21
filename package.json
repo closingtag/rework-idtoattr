@@ -26,5 +26,5 @@
   "homepage": "https://github.com/closingtag/rework-idtoattr",
   "devDependencies": {
     "rework": "^1.0.0"
-  },  
+  }
 }

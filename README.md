@@ -13,10 +13,20 @@ npm install --save-dev rework-idtoattr
 
 ## Example
 
+Run
+
+```
+node index.js
+```
+
+within folder ```example```
+
+### index.js
+
 ```js
 
   var rework = require('rework');
-  var plugin = require('./plugin.js');
+  var plugin = require('rework-idtoattr');
 
   var read = require('fs').readFileSync;
   var write = require('fs').writeFileSync;

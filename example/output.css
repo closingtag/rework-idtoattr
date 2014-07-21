@@ -1,0 +1,12 @@
+[id="button"] ul ~ p {
+  padding: 0;
+}
+
+[id="searchbar"] {
+  border: 0;
+}
+
+div[id="test"] >ul.nav [id="login"] {
+  width: auto;
+  height: 100px;
+}
