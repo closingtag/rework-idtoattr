@@ -1,0 +1,30 @@
+{
+  "name": "rework-idtoattr",
+  "version": "0.0.1",
+  "description": "A rework plugin to convert CSS ID-Selectors to Attribute-Selectors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/closingtag/rework-idtoattr.git"
+  },
+  "keywords": [
+    "rework",
+    "css",
+    "id",
+    "attributes",
+    "pre",
+    "processing"
+  ],
+  "author": "Robert Weber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/closingtag/rework-idtoattr/issues"
+  },
+  "homepage": "https://github.com/closingtag/rework-idtoattr",
+  "devDependencies": {
+    "rework": "^1.0.0"
+  },  
+}
